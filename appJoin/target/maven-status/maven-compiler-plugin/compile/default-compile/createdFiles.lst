@@ -1,0 +1,7 @@
+clases\DetalleTrabajador.class
+clases\TrabajadorDescuento.class
+controllers\TrabajadorController.class
+clases\TrabajadorPorcentaje.class
+config\Conexion.class
+config\NewMain.class
+daos\TrabajadorDao.class
